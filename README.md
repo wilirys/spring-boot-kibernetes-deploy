@@ -117,7 +117,7 @@ http://192.168.99.100:32443
 
 Now we have an IP address. Let's check our simple controller.
 ```bash
-markopolo@pxbox:~/IdeaProjects/spring-boot-kibernetes-deploy$ curl http://192.168.99.100:32443/say_hello
+earthmor@pxbox:~/spring-boot-kibernetes-deploy$ curl http://192.168.99.100:32443/say_hello
 Hello my majesty
 ```
 
